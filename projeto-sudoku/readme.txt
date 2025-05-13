@@ -1,14 +1,10 @@
-Repositório Git
+Repositório Git dos exemplos do projeto
 
- 
-
+Links Importantes:
 Brach main com jogo no terminal: https://github.com/digitalinnovationone/sudoku
 Branch com interface gráfica: https://github.com/digitalinnovationone/sudoku/tree/ui
 
- 
-Links Importantes
 
- 
 
 Draw.io: https://app.diagrams.net
 
